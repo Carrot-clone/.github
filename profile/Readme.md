@@ -38,7 +38,7 @@
 ## Skill Set
 
 | Front | Language | Back | Database |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/330px-Nextjs-logo.svg.png" width = "200">| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/220px-Typescript_logo_2020.svg.png" width = "200">| <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/4201/11834.png" width = "200">| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width = "200" >|
 | NEXT JS | TypeScript | django | PostgreSQL |
 
