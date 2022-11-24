@@ -21,9 +21,13 @@
 
 ### Frontend
 
+![nextjs](https://user-images.githubusercontent.com/103014298/203785879-aa16c897-545a-41e2-a939-6003755f5f8a.png) ![ts](https://user-images.githubusercontent.com/103014298/203785901-7c323a52-aed5-40f1-a550-9a5a653631f2.png) ![tanstack](https://user-images.githubusercontent.com/103014298/203785929-9b026085-24a3-49e5-9fea-2dbab3925ed7.png) ![recoil](https://user-images.githubusercontent.com/103014298/203785957-b264edd5-b314-4080-bdc2-973229a48c8c.png) ![tailwind](https://user-images.githubusercontent.com/103014298/203786001-9d184727-3fa2-458f-b5ee-4681f9e6ae75.png)
 
 
 ### Backend
+
+![django](https://user-images.githubusercontent.com/103014298/203786580-b64271a3-9e79-4958-8629-44c58c6e39ec.png) ![drf](https://user-images.githubusercontent.com/103014298/203786620-9f8e5776-ac8a-4a9a-be37-60137f6aed13.png) ![Group 808](https://user-images.githubusercontent.com/103014298/203786627-52f269ee-5d08-43be-a90c-0887448c475e.png) ![pstgre](https://user-images.githubusercontent.com/103014298/203786862-fd78347d-e4a7-4f3d-a13f-c97fce660737.png)
+
 
 
 ## WireFrame
