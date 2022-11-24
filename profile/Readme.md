@@ -4,7 +4,7 @@
 
 멜론마켓(MELON MARKET) | 당근마켓 클론코딩
 
-## Introduce
+### Introduce
 
 당근마켓 클론코딩 프로젝트 입니다.
 
@@ -12,31 +12,31 @@
 
 2022년 11월 24일 - 12월 3일
 
-## 주요 기능
+### 주요 기능
 
-## Tools
+### Tools
 ![github](https://user-images.githubusercontent.com/103014298/190316017-c8dd72bd-e4a3-408a-ad1f-91a9a2075947.png) ![notion](https://user-images.githubusercontent.com/103014298/190316126-b4ca088a-b0ee-45dc-802f-a4f1e97b928f.png) ![figma](https://user-images.githubusercontent.com/103014298/190316137-5f96be1b-e212-49c8-9db2-3fc0a4988111.png)
 
-## Stack
+### Stack
 
-### Frontend
+#### Frontend
 
 ![nextjs](https://user-images.githubusercontent.com/103014298/203785879-aa16c897-545a-41e2-a939-6003755f5f8a.png) ![ts](https://user-images.githubusercontent.com/103014298/203785901-7c323a52-aed5-40f1-a550-9a5a653631f2.png) ![tanstack](https://user-images.githubusercontent.com/103014298/203785929-9b026085-24a3-49e5-9fea-2dbab3925ed7.png) ![recoil](https://user-images.githubusercontent.com/103014298/203785957-b264edd5-b314-4080-bdc2-973229a48c8c.png) ![tailwind](https://user-images.githubusercontent.com/103014298/203786001-9d184727-3fa2-458f-b5ee-4681f9e6ae75.png)
 
 
-### Backend
+#### Backend
 
 ![django](https://user-images.githubusercontent.com/103014298/203786580-b64271a3-9e79-4958-8629-44c58c6e39ec.png) ![drf](https://user-images.githubusercontent.com/103014298/203786620-9f8e5776-ac8a-4a9a-be37-60137f6aed13.png) ![Group 808](https://user-images.githubusercontent.com/103014298/203786627-52f269ee-5d08-43be-a90c-0887448c475e.png) ![pstgre](https://user-images.githubusercontent.com/103014298/203786862-fd78347d-e4a7-4f3d-a13f-c97fce660737.png)
 
 
 
-## WireFrame
+### WireFrame
 
 
-## Architecture
+### Architecture
 
 
-## 🧑‍💻 Member
+### 🧑‍💻 Member
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 </div>
 
 
-## Skill Set
+### Skill Set
 
 <div align="center">
 
