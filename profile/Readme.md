@@ -1,14 +1,12 @@
-<h1>🍈MELON MARKET🍈</h1>
-
-## 프로젝트명
 <div align="center">
   
 ![멜론마켓 오후 10 03 05](https://user-images.githubusercontent.com/103014298/204090381-7e1a3436-b8ea-4b2e-9dab-52ee92cbc8ae.png)
-
   
 </div>
 
-멜론마켓(MELON MARKET) | 당근마켓 클론코딩
+## 프로젝트명
+
+<h1>🍈MELON MARKET🍈 | 당근마켓 클론코딩</h1>
 
 ## Introduce
 
