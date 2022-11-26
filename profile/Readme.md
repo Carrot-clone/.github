@@ -6,7 +6,7 @@
 
 ## 프로젝트명
 
-<h2>🍈MELON MARKET🍈 | 당근마켓 클론코딩</h2>
+🍈MELON MARKET🍈 | 당근마켓 클론코딩
 
 ## Introduce
 
