@@ -2,8 +2,12 @@
 
 ## 프로젝트명
 <div align="center">
-![멜론마켓 오후 10 03 05](https://user-images.githubusercontent.com/103014298/204090351-6d32c29c-453d-4879-8a89-2c1a40d70317.png)
+  
+![멜론마켓 오후 10 03 05](https://user-images.githubusercontent.com/103014298/204090381-7e1a3436-b8ea-4b2e-9dab-52ee92cbc8ae.png)
+
+  
 </div>
+
 멜론마켓(MELON MARKET) | 당근마켓 클론코딩
 
 ## Introduce
