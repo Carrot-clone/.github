@@ -25,11 +25,11 @@
 
 ### Backend
 
-![django](https://user-images.githubusercontent.com/103014298/203786580-b64271a3-9e79-4958-8629-44c58c6e39ec.png) ![drf](https://user-images.githubusercontent.com/103014298/203786620-9f8e5776-ac8a-4a9a-be37-60137f6aed13.png) ![Group 808](https://user-images.githubusercontent.com/103014298/203786627-52f269ee-5d08-43be-a90c-0887448c475e.png) 
+![django](https://user-images.githubusercontent.com/103014298/203786580-b64271a3-9e79-4958-8629-44c58c6e39ec.png) ![drf](https://user-images.githubusercontent.com/103014298/203786620-9f8e5776-ac8a-4a9a-be37-60137f6aed13.png) ![Group 808](https://user-images.githubusercontent.com/103014298/203786627-52f269ee-5d08-43be-a90c-0887448c475e.png) ![mysql](https://user-images.githubusercontent.com/103014298/206906430-84dac595-7d25-476c-a37c-b7b1286a0d84.png)
+
 
 ### Tools
-![github](https://user-images.githubusercontent.com/103014298/190316017-c8dd72bd-e4a3-408a-ad1f-91a9a2075947.png) ![notion](https://user-images.githubusercontent.com/103014298/190316126-b4ca088a-b0ee-45dc-802f-a4f1e97b928f.png) ![figma](https://user-images.githubusercontent.com/103014298/190316137-5f96be1b-e212-49c8-9db2-3fc0a4988111.png) ![mysql](https://user-images.githubusercontent.com/103014298/206906430-84dac595-7d25-476c-a37c-b7b1286a0d84.png)
-
+![github](https://user-images.githubusercontent.com/103014298/190316017-c8dd72bd-e4a3-408a-ad1f-91a9a2075947.png) ![notion](https://user-images.githubusercontent.com/103014298/190316126-b4ca088a-b0ee-45dc-802f-a4f1e97b928f.png) ![figma](https://user-images.githubusercontent.com/103014298/190316137-5f96be1b-e212-49c8-9db2-3fc0a4988111.png) 
 ## Architecture
 
 
