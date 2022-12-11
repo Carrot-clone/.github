@@ -6,7 +6,7 @@
 
 ## 프로젝트명
 
-🍈MELON MARKET🍈 | 당근마켓 클론코딩
+🍈 MELON MARKET🍈 | 당근마켓 클론코딩
 
 ## Introduce
 
