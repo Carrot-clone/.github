@@ -27,15 +27,10 @@
 
 ### Backend
 
-![django](https://user-images.githubusercontent.com/103014298/203786580-b64271a3-9e79-4958-8629-44c58c6e39ec.png) ![drf](https://user-images.githubusercontent.com/103014298/203786620-9f8e5776-ac8a-4a9a-be37-60137f6aed13.png) ![Group 808](https://user-images.githubusercontent.com/103014298/203786627-52f269ee-5d08-43be-a90c-0887448c475e.png) ![pstgre](https://user-images.githubusercontent.com/103014298/203786862-fd78347d-e4a7-4f3d-a13f-c97fce660737.png)
+![django](https://user-images.githubusercontent.com/103014298/203786580-b64271a3-9e79-4958-8629-44c58c6e39ec.png) ![drf](https://user-images.githubusercontent.com/103014298/203786620-9f8e5776-ac8a-4a9a-be37-60137f6aed13.png) ![Group 808](https://user-images.githubusercontent.com/103014298/203786627-52f269ee-5d08-43be-a90c-0887448c475e.png) 
 
 ### Tools
-![github](https://user-images.githubusercontent.com/103014298/190316017-c8dd72bd-e4a3-408a-ad1f-91a9a2075947.png) ![notion](https://user-images.githubusercontent.com/103014298/190316126-b4ca088a-b0ee-45dc-802f-a4f1e97b928f.png) ![figma](https://user-images.githubusercontent.com/103014298/190316137-5f96be1b-e212-49c8-9db2-3fc0a4988111.png)
-
-
-
-## WireFrame
-
+![github](https://user-images.githubusercontent.com/103014298/190316017-c8dd72bd-e4a3-408a-ad1f-91a9a2075947.png) ![notion](https://user-images.githubusercontent.com/103014298/190316126-b4ca088a-b0ee-45dc-802f-a4f1e97b928f.png) ![figma](https://user-images.githubusercontent.com/103014298/190316137-5f96be1b-e212-49c8-9db2-3fc0a4988111.png) ![mysql](https://user-images.githubusercontent.com/103014298/206906430-84dac595-7d25-476c-a37c-b7b1286a0d84.png)
 
 ## Architecture
 
@@ -51,15 +46,14 @@
 
 </div>
 
-
 ## Skill Set
 
 <div align="center">
 
 | Front | Language | Back | Database |
 | :---: | :---: | :---: | :---: |
-| <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/330px-Nextjs-logo.svg.png" width = "200">| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/220px-Typescript_logo_2020.svg.png" width = "200">| <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/4201/11834.png" width = "200">| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" width = "200" >|
-| NEXT JS | TypeScript | django | PostgreSQL |
+| <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/330px-Nextjs-logo.svg.png" width = "200">| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/220px-Typescript_logo_2020.svg.png" width = "200">| <img src="https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/4201/11834.png" width = "200">| <img src="https://i0.wp.com/thinkground.studio/wp-content/uploads/2019/04/190419_MySQL-Logo.png?w=363&ssl=1" width = "200" >|
+| NEXT JS | TypeScript | django | MySQL |
 
 </div>
 
