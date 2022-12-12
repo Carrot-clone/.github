@@ -30,8 +30,9 @@
 
 ### Tools
 ![github](https://user-images.githubusercontent.com/103014298/190316017-c8dd72bd-e4a3-408a-ad1f-91a9a2075947.png) ![notion](https://user-images.githubusercontent.com/103014298/190316126-b4ca088a-b0ee-45dc-802f-a4f1e97b928f.png) ![figma](https://user-images.githubusercontent.com/103014298/190316137-5f96be1b-e212-49c8-9db2-3fc0a4988111.png) 
-## Architecture
 
+## Architecture
+<img width="903" alt="Architecture" src="https://user-images.githubusercontent.com/94242504/207088442-7ec155c1-6ea9-46e9-a22f-87f4d5308768.png">
 
 ## 🧑‍💻 Member
 
